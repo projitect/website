@@ -1,6 +1,8 @@
 title: Projitect
 description: The Javascript project scaffolding tool that dynamically keeps your code up to date.
 
+# Note: the Slate theme does not work with Google Analystics 4
+#       see https://github.com/pages-themes/slate/issues/49
 google_analytics: G-NQ6TZW218Q
 
 theme: jekyll-theme-slate
