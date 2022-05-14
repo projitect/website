@@ -30,7 +30,7 @@ Coming "soon"
 
 # Quickstart
 
-
+Coming soon
 
 # Links
 [Brand assets](brand.md)
