@@ -1,0 +1,6 @@
+{
+  "extends": [
+    // This isn't a JS app, but this config is still kind of what we want for this repo
+    "github>projitect/renovate-config:js-app.json5",
+  ],
+}
