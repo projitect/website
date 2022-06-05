@@ -1,0 +1,4 @@
+# Files generated when running Jekyll locally
+.jekyll-*
+_site
+.sass-cache
