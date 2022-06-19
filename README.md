@@ -3,6 +3,8 @@ Projitect website
 
 Source files for https://projitect.dev/
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/projitect/website/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/projitect/website/tree/main)
+
 # Running locally
 
 Quickstart
